@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "قرآن کریم (الکتاب)",
+    "developer": "Madani Devs",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3023/3023606.png",
+    "shortDesc": "تلاوت اور ترجمہ کے ساتھ",
+    "desc": "یہ قرآن پاک کی مکمل ایپ ہے۔ اس میں آپ کو نائٹ موڈ، بک مارک، اور تلاوت کی سہولت ملے گی۔ یہ ایپ استعمال میں بہت آسان ہے۔",
+    "link": "https://play.google.com/store/apps",
+    "size": "15 MB",
+    "downloads": "50K+",
+    "rating": "4.8",
+    "screens": [
+      "https://via.placeholder.com/150x250/00875f/fff?text=Quran+Home",
+      "https://via.placeholder.com/150x250/00875f/fff?text=Reading+Mode",
+      "https://via.placeholder.com/150x250/00875f/fff?text=Settings"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "ڈیجیٹل تسبیح پرو",
+    "developer": "Islamic Apps",
+    "icon": "https://cdn-icons-png.flaticon.com/512/4358/4358686.png",
+    "shortDesc": "ذکر و اذکار کے لیے",
+    "desc": "چلتے پھرتے ذکر کرنے کے لیے بہترین ڈیجیٹل تسبیح۔ اس میں وائبریشن اور ساؤنڈ ایفیکٹس بھی موجود ہیں۔",
+    "link": "#",
+    "size": "5 MB",
+    "downloads": "10K+",
+    "rating": "4.5",
+    "screens": [
+      "https://via.placeholder.com/150x250/1e3c72/fff?text=Counter",
+      "https://via.placeholder.com/150x250/1e3c72/fff?text=History"
+    ]
+  }
+]
