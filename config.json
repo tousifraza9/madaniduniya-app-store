@@ -1,0 +1,36 @@
+{
+  "appConfig": {
+    "maintenanceMode": false,
+    "themeColor": "#00875f"
+  },
+  "ticker": {
+    "text": "السلام علیکم! آج کا نیا مضمون 'صبر کی فضیلت' شائع ہو گیا ہے۔ ابھی پڑھیں اور دوستوں کے ساتھ شیئر کریں۔"
+  },
+  "dailyMessage": {
+    "show": true,
+    "title": "آج کی حدیث",
+    "text": "تم میں سے بہترین وہ ہے جو قرآن سیکھے اور سکھائے۔",
+    "reference": "(صحیح بخاری: 5027)"
+  },
+  "slider": [
+    {
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=500",
+      "caption": "علم حاصل کرنا ہر مسلمان پر فرض ہے"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1515658323427-4a60750bfd54?w=500",
+      "caption": "نماز مومن کی معراج ہے"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?w=500",
+      "caption": "دین و دنیا کی کامیابی"
+    }
+  ],
+  "popup": {
+    "show": true,
+    "title": "اہم اعلان",
+    "message": "ہماری نئی ایپ 'مدنی قاعدہ' پلے اسٹور پر آ گئی ہے۔ ابھی ڈاؤنلوڈ کریں!",
+    "btnText": "ڈاؤنلوڈ کریں",
+    "link": "https://play.google.com"
+  }
+}
