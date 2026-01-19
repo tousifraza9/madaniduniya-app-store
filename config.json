@@ -78,6 +78,13 @@
       "color": "linear-gradient(135deg, #25D366, #128C7E)",
       "type": "link",
       "link": "https://wa.me/917434836941"
+    },
+    {
+      "title": "ایپ شیئر کریں",
+      "icon": "fas fa-share-alt",
+      "color": "linear-gradient(135deg, #30CFD0, #330867)",
+      "type": "function",
+      "link": "sharePost('https://www.madaniduniya.com', 'مدنی دنیا ایپ ڈاؤنلوڈ کریں')"
     }
   ]
 }
