@@ -9,7 +9,7 @@
   "dailyMessage": {
     "show": true,
     "title": "آج کی حدیث",
-    "text": "تم میں سے بہترین وہ ہے جو قرآن سیکھے، اور سکھائے۔",
+    "text": "تم میں سے بہترین وہ ہے جو قرآن سیکھے اور سکھائے۔",
     "reference": "(صحیح بخاری: 5027)"
   },
   "slider": [
@@ -19,18 +19,65 @@
     },
     {
       "image": "https://images.unsplash.com/photo-1515658323427-4a60750bfd54?w=500",
-      "caption": "نماز مومن کی معراج ہے"
-    },
-    {
-      "image": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?w=500",
       "caption": "دین و دنیا کی کامیابی"
     }
   ],
   "popup": {
     "show": true,
     "title": "اہم اعلان",
-    "message": "ہماری نئی ایپ 'مدنی قاعدہ' پلے اسٹور پر آ گئی ہے۔ ابھی ڈاؤنلوڈ کریں!",
-    "btnText": "ڈاؤنلوڈ کریں",
+    "message": "ہماری نئی ایپ 'مدنی قاعدہ' پلے اسٹور پر آ گئی ہے۔",
+    "btnText": "دیکھیں",
     "link": "https://play.google.com"
-  }
+  },
+  "dashboardButtons": [
+    {
+      "title": "دیگر ایپس",
+      "icon": "fas fa-th-large",
+      "color": "linear-gradient(135deg, #FF416C, #FF4B2B)",
+      "type": "function",
+      "link": "switchTab('store')"
+    },
+    {
+      "title": "مضامین",
+      "icon": "fas fa-book-open",
+      "color": "linear-gradient(135deg, #1e3c72, #2a5298)",
+      "type": "link",
+      "link": "https://www.madaniduniya.com/p/madaniduniya-all-posts.html"
+    },
+    {
+      "title": "قلم کار",
+      "icon": "fas fa-feather-alt",
+      "color": "linear-gradient(135deg, #00b09b, #96c93d)",
+      "type": "link",
+      "link": "https://www.madaniduniya.com/p/authors.html"
+    },
+    {
+      "title": "مضمون بھیجیں",
+      "icon": "fas fa-paper-plane",
+      "color": "linear-gradient(135deg, #fc4a1a, #f7b733)",
+      "type": "link",
+      "link": "#submit"
+    },
+    {
+      "title": "تعارف",
+      "icon": "fas fa-info-circle",
+      "color": "linear-gradient(135deg, #8e44ad, #c0392b)",
+      "type": "link",
+      "link": "https://www.madaniduniya.com/p/about.html"
+    },
+    {
+      "title": "رابطہ",
+      "icon": "fas fa-envelope-open-text",
+      "color": "linear-gradient(135deg, #11998e, #38ef7d)",
+      "type": "link",
+      "link": "https://www.madaniduniya.com/p/contact.html"
+    },
+    {
+      "title": "واٹس ایپ",
+      "icon": "fab fa-whatsapp",
+      "color": "linear-gradient(135deg, #25D366, #128C7E)",
+      "type": "link",
+      "link": "https://wa.me/923001234567"
+    }
+  ]
 }
