@@ -84,7 +84,7 @@
       "icon": "fas fa-share-alt",
       "color": "linear-gradient(135deg, #30CFD0, #330867)",
       "type": "function",
-      "link": "sharePost('https://www.madaniduniya.com/p/madani-duniya-app-download.html', 'مدنی دنیا ایپلیکیشن ڈاؤنلوڈ کیجیے!')"
+      "link": "sharePost('https://www.madaniduniya.com/p/madani-duniya-app-download.html', 'مدنی دنیا ایپ ڈاؤنلوڈ کریں')"
     }
   ]
 }
