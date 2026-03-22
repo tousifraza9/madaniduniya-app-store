@@ -55,8 +55,8 @@
       "title": "مضمون بھیجیں",
       "icon": "fas fa-paper-plane",
       "color": "linear-gradient(135deg, #fc4a1a, #f7b733)",
-      "type": "https://www.madaniduniya.com/p/submit-article.html",
-      "link": "#submit"
+      "type": "link",
+      "link": "https://www.madaniduniya.com/p/submit-article.html"
     },
     {
       "title": "تعارف",
