@@ -33,61 +33,60 @@
     {
       "title": "دیگر ایپس",
       "icon": "fas fa-th-large",
-      "color": "linear-gradient(135deg, #FF416C, #FF4B2B)",
+      "color": "#FF416C",
       "type": "function",
       "link": "switchTab('store')"
     },
     {
       "title": "مضامین",
       "icon": "fas fa-book-open",
-      "color": "linear-gradient(135deg, #1e3c72, #2a5298)",
+      "color": "#1e3c72",
       "type": "link",
       "link": "https://www.madaniduniya.com/p/madaniduniya-all-posts.html"
     },
     {
       "title": "قلم کار",
       "icon": "fas fa-feather-alt",
-      "color": "linear-gradient(135deg, #00b09b, #96c93d)",
+      "color": "#00b09b",
       "type": "link",
       "link": "https://www.madaniduniya.com/p/authors.html"
     },
     {
       "title": "مضمون بھیجیں",
       "icon": "fas fa-paper-plane",
-      "color": "linear-gradient(135deg, #fc4a1a, #f7b733)",
+      "color": "#fc4a1a",
       "type": "link",
       "link": "https://www.madaniduniya.com/p/submit-article.html"
     },
     {
       "title": "تعارف",
       "icon": "fas fa-info-circle",
-      "color": "linear-gradient(135deg, #8e44ad, #c0392b)",
+      "color": "#8e44ad",
       "type": "link",
       "link": "https://www.madaniduniya.com/p/about-us.html"
     },
     {
       "title": "رابطہ",
       "icon": "fas fa-envelope-open-text",
-      "color": "linear-gradient(135deg, #11998e, #38ef7d)",
+      "color": "#11998e",
       "type": "link",
       "link": "https://www.madaniduniya.com/p/contact.html"
     },
     {
       "title": "واٹس ایپ",
       "icon": "fab fa-whatsapp",
-      "color": "linear-gradient(135deg, #25D366, #128C7E)",
+      "color": "#25D366",
       "type": "link",
       "link": "https://wa.me/917434836941"
     },
     {
       "title": "ایپ شیئر کریں",
       "icon": "fas fa-share-alt",
-      "color": "linear-gradient(135deg, #30CFD0, #330867)",
+      "color": "#30CFD0",
       "type": "function",
       "link": "sharePost('https://www.madaniduniya.com/p/madani-duniya-app-download.html', 'مدنی دنیا ایپ ڈاؤنلوڈ کریں')"
     }
-  ]
-}
+  ],
   "customNotifications": [
     {
       "title": "رمضان کی خصوصی پیشکش",
@@ -102,3 +101,4 @@
       "btnText": ""
     }
   ]
+}
