@@ -90,14 +90,14 @@
   "customNotifications": [
     {
       "title": "رمضان کی خصوصی پیشکش",
-      "message": "رمضان المبارک کے حوالے سے ہمارے نئے مضامین اپلوڈ کر دیے گئے ہیں۔ ابھی پڑھیں۔",
-      "link": "https://www.madaniduniya.com",
-      "btnText": "مضامین پڑھیں"
+      "message": "آپ کے بھیجے گئے تمام مضامین ویب سائٹ پر شائع ہوچکے ہیں۔ اگر شائع ہونا باقی ہو تو رابطہ فرمائیں!",
+      "link": "https://www.madaniduniya.com/p/contact.html",
+      "btnText": "رابطہ فرمائیں"
     },
     {
       "title": "ایپ اپڈیٹ",
       "message": "ایپ کا نیا ورژن آ چکا ہے، اپنے دوستوں کے ساتھ ضرور شیئر کریں!",
-      "link": "",
+      "link": "https://www.madaniduniya.com/p/madani-duniya-app-download.html",
       "btnText": ""
     }
   ]
